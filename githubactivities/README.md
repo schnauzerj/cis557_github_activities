@@ -1,3 +1,6 @@
+# cis557 github activities
+# dev branch created
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
